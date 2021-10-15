@@ -12,7 +12,7 @@ Olá, boas vindas ao guia de contribuição do Awesome Conteúdo Brasil, aqui vo
 
 ## template
 
-\## \[nome da conteúdo\]\(link-do-conteudo)
+\### \[nome da conteúdo\]\(link-do-conteudo)
 
 Descreva um pouco sobre o tipo de conteúdo que você está submetendo, quem produz ele, curiosidades, etc. Se o conteúdo tiver alguma periodicidade, mencione aqui, por exemplo: Lives às Sextas 19:30
 

@@ -12,6 +12,14 @@
 
 ## Streams
 
+### [Over The Air](https://www.twitch.tv/githubeducation)
+
+Live show apresentado por Otávio Perkles e Otacílio Maia trazendo conteúdo sobre Open source e educação muitas vezes com convidados incríveis. 
+
+Lives toda sexta feira as 19:30
+
+tags: Git, GitHub, eventos, educação, Open source
+
 ## Blog
 
 ## License
