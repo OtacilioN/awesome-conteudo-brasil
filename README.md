@@ -13,7 +13,13 @@
 
 Canal do youtube voltado para ensinar programação e assuntos semelhantes
 
-tags: linguagens de programação, ensino
+tags: Inteligência Artificial, educação, Redes Neurais
+
+### [Universo Programado](https://www.youtube.com/c/UniversoProgramado/)
+
+Canal voltado para a demonstração de projetos envolvendo I.A., desde conhecimentos básico até programando uma I.A. para jogar diversos jogos complexos.
+
+tags: 
 ## Streams
 
 ### [Over The Air](https://www.twitch.tv/githubeducation)
