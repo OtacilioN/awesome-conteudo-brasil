@@ -14,6 +14,12 @@
 Canal do youtube voltado para ensinar programação e assuntos semelhantes
 
 tags: linguagens de programação, ensino
+
+### [Full Cycle](https://www.youtube.com/c/FullCycle)
+
+Canal do youtube voltado para ensinar programação e ajudar desenvolvedores a se tornarem FullCycle com estudos sobre o mundo dos Microserviços.
+
+tags: linguagens de programação, ensino, microserviços, devops, arquitetura
 ## Streams
 
 ### [Over The Air](https://www.twitch.tv/githubeducation)
