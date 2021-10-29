@@ -43,7 +43,7 @@ Lives apresentadas por Téo Calvo, estatístico e cientista de dados, traz basta
 
 Lives todas terças e quintas às 20hrs.
 
-tags: Git, GitHub, SQL, Data Science, Statistics
+tags: Git, GitHub, Python, SQL, Data Science, Statistics
 
 ## Blog
 
