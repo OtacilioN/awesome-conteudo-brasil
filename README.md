@@ -37,6 +37,14 @@ Lives toda sexta feira as 19:30
 
 tags: Git, GitHub, eventos, educação, Open source
 
+### [Téo me Why](https://www.twitch.tv/teomewhy/)
+
+Lives apresentadas por Téo Calvo, estatístico e cientista de dados, traz bastante conteúdo sobre Python, SQL, NoSQL, Git e Ciência de Dados no geral. 
+
+Lives todas terças e quintas às 20hrs.
+
+tags: Git, GitHub, Python, SQL, Data Science, Statistics
+
 ## Blog
 
 ## License
