@@ -15,6 +15,11 @@ Canal do youtube voltado para ensinar programação e assuntos semelhantes
 
 tags: Inteligência Artificial, educação, Redes Neurais
 
+### [Curso em Video] (https://www.youtube.com/c/CursoemV%C3%ADdeo)
+Canal de cursos em vídeo-aulas de tecnologia totalmente gratuitos. 
+
+tags: Python, HTML5, CSS3, Javascript, WordPress
+
 ### [Full Cycle](https://www.youtube.com/c/FullCycle)
 
 Canal do youtube voltado para ensinar programação e ajudar desenvolvedores a se tornarem FullCycle com estudos sobre o mundo dos Microserviços.
